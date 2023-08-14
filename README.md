@@ -1,8 +1,7 @@
-# React + Vite
+# Array Loop Exercises
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is being used for my bootcamp to teach students on using different approaches, use cases, to loop through arrays.
 
-Currently, two official plugins are available:
+You can clone or fork this repository if you want. For better, you can contribute to this project as well, so we can use this for future references.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Let me know if you have any inquiries.
