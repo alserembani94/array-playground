@@ -1,0 +1,9 @@
+export { Answer1 } from "./Exercise1";
+export { Answer2 } from "./Exercise2";
+export { Answer3 } from "./Exercise3";
+export { Answer4 } from "./Exercise4";
+export { Answer5 } from "./Exercise5";
+export { Answer6 } from "./Exercise6";
+export { Answer7 } from "./Exercise7";
+export { Answer8 } from "./Exercise8";
+export { Answer9 } from "./Exercise9";
