@@ -10,7 +10,8 @@ const Root = () => {
           <Link
             to={routeInfo.path}
             key={routeInfo.path}
-            className="px-4 py-2 bg-slate-200 hover:bg-slate-300 rounded"
+            className="px-4 py-2 bg-slate-200 hover:bg-slate-300 rounded transition-all duration-200"
+            activeProps={{ className: "bg-slate-400 font-bold" }}
           >
             {routeInfo.label}
           </Link>
@@ -21,7 +22,8 @@ const Root = () => {
           <Link
             to={routeInfo.path}
             key={routeInfo.path}
-            className="px-4 py-2 bg-slate-200 hover:bg-slate-300 rounded"
+            className="px-4 py-2 bg-slate-200 hover:bg-slate-300 rounded transition-all duration-200"
+            activeProps={{ className: "bg-slate-400 font-bold" }}
           >
             {routeInfo.label}
           </Link>
